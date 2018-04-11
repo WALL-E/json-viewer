@@ -83,7 +83,7 @@ ul.x-tab-strip li.x-tab-edge{float:left;margin:0!important;padding:0!important;b
 .x-tab-strip a,.x-tab-strip span,.x-tab-strip em{display:block}
 .x-tab-strip a{text-decoration:none!important;-moz-outline:none;outline:none;cursor:pointer}
 .x-tab-strip-inner{overflow:hidden;text-overflow:ellipsis}
-.x-tab-strip span.x-tab-strip-text{font:normal 11px tahoma,arial,helvetica;color:#416aa3;white-space:nowrap;cursor:pointer;padding:4px 0}
+.x-tab-strip span.x-tab-strip-text{font:normal 13px tahoma,arial,helvetica;color:#416aa3;white-space:nowrap;cursor:pointer;padding:4px 0}
 .x-tab-strip-top .x-tab-with-icon .x-tab-right{padding-left:6px}
 .x-tab-strip .x-tab-with-icon span.x-tab-strip-text{padding-left:20px;background-position:0 3px;background-repeat:no-repeat}
 .x-tab-strip-over span.x-tab-strip-text{color:#15428b}
